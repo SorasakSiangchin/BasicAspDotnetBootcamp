@@ -1,0 +1,15 @@
+D:\dotnet\CourseProject\src\CourseProject.Infrastructure\bin\Debug\net7.0\CourseProject.Infrastructure.deps.json
+D:\dotnet\CourseProject\src\CourseProject.Infrastructure\bin\Debug\net7.0\CourseProject.Infrastructure.dll
+D:\dotnet\CourseProject\src\CourseProject.Infrastructure\bin\Debug\net7.0\CourseProject.Infrastructure.pdb
+D:\dotnet\CourseProject\src\CourseProject.Infrastructure\bin\Debug\net7.0\CourseProject.Common.dll
+D:\dotnet\CourseProject\src\CourseProject.Infrastructure\bin\Debug\net7.0\CourseProject.Common.pdb
+D:\dotnet\CourseProject\src\CourseProject.Infrastructure\obj\Debug\net7.0\CourseProject.Infrastructure.csproj.AssemblyReference.cache
+D:\dotnet\CourseProject\src\CourseProject.Infrastructure\obj\Debug\net7.0\CourseProject.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\CourseProject\src\CourseProject.Infrastructure\obj\Debug\net7.0\CourseProject.Infrastructure.AssemblyInfoInputs.cache
+D:\dotnet\CourseProject\src\CourseProject.Infrastructure\obj\Debug\net7.0\CourseProject.Infrastructure.AssemblyInfo.cs
+D:\dotnet\CourseProject\src\CourseProject.Infrastructure\obj\Debug\net7.0\CourseProject.Infrastructure.csproj.CoreCompileInputs.cache
+D:\dotnet\CourseProject\src\CourseProject.Infrastructure\obj\Debug\net7.0\CourseProject.Infrastructure.csproj.CopyComplete
+D:\dotnet\CourseProject\src\CourseProject.Infrastructure\obj\Debug\net7.0\CourseProject.Infrastructure.dll
+D:\dotnet\CourseProject\src\CourseProject.Infrastructure\obj\Debug\net7.0\refint\CourseProject.Infrastructure.dll
+D:\dotnet\CourseProject\src\CourseProject.Infrastructure\obj\Debug\net7.0\CourseProject.Infrastructure.pdb
+D:\dotnet\CourseProject\src\CourseProject.Infrastructure\obj\Debug\net7.0\ref\CourseProject.Infrastructure.dll

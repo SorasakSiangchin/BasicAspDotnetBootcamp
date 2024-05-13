@@ -1,0 +1,17 @@
+D:\dotnet\CourseProject\src\CourseProject.Business\bin\Debug\net7.0\CourseProject.Business.deps.json
+D:\dotnet\CourseProject\src\CourseProject.Business\bin\Debug\net7.0\CourseProject.Business.dll
+D:\dotnet\CourseProject\src\CourseProject.Business\bin\Debug\net7.0\CourseProject.Business.pdb
+D:\dotnet\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\CourseProject.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\CourseProject.Business.AssemblyInfoInputs.cache
+D:\dotnet\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\CourseProject.Business.AssemblyInfo.cs
+D:\dotnet\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\CourseProject.Business.csproj.CoreCompileInputs.cache
+D:\dotnet\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\CourseProject.Business.dll
+D:\dotnet\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\refint\CourseProject.Business.dll
+D:\dotnet\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\CourseProject.Business.pdb
+D:\dotnet\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\ref\CourseProject.Business.dll
+D:\dotnet\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\CourseProject.Business.csproj.AssemblyReference.cache
+D:\dotnet\CourseProject\src\CourseProject.Business\bin\Debug\net7.0\CourseProject.Common.dll
+D:\dotnet\CourseProject\src\CourseProject.Business\bin\Debug\net7.0\CourseProject.Infrastructure.dll
+D:\dotnet\CourseProject\src\CourseProject.Business\bin\Debug\net7.0\CourseProject.Common.pdb
+D:\dotnet\CourseProject\src\CourseProject.Business\bin\Debug\net7.0\CourseProject.Infrastructure.pdb
+D:\dotnet\CourseProject\src\CourseProject.Business\obj\Debug\net7.0\CourseProject.Business.csproj.CopyComplete
